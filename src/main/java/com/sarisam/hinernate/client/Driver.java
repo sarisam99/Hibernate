@@ -22,6 +22,7 @@ public class Driver {
 		//SessionFactory sessionFactory=new AnnotationConfiguration().configure().buildSessionFactory();
 		Employee employee=new Employee();
 		employee.setEmployeeName("sariputra");
+		employee.setId(1);
 		System.out.println(employee);
 	}
 
