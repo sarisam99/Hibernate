@@ -17,7 +17,7 @@ public class Employee {
 	private String employeeName;
 	private  double salary;
 	private Date dob;
-	
+	//entity
 	public Employee() {
 		// TODO Auto-generated constructor stub
 	}

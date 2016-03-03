@@ -23,6 +23,7 @@ public class Driver {
 		Employee employee=new Employee();
 		employee.setEmployeeName("sariputra");
 		employee.setId(1);
+		employee.setSalary(100.00);
 		System.out.println(employee);
 	}
 
